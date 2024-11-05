@@ -1,12 +1,11 @@
-team: Accident
+team: yalco_git
 
-manager: Sbwoo
+manager: yuram
 
-coach: Jeolmi
+coach: Seungmin
 
 members:
-
-- Nam
-- Yoon
-- Choi
-- Oh
+  - Linda
+  - William
+  - David
+  - George
