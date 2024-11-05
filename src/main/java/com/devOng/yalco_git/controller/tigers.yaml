@@ -1,9 +1,12 @@
-team : Tigers
+team: yalco_git
 
-coach: Grace
+manager: yuram
+
+coach: Seungmin
 
 members:
-  - Linda
-  - William
-  - David
-  - George
+  - mo
+  - yun
+  - woo
+  - nam
+  - oh
